@@ -19,5 +19,5 @@ anotha one
 
 
 # Credits 
-**akhil.daSimpツ#0705** - i made this calc
+**Made By `akhil.daSimpツ#0705` Feel Free To DM me On Discord**
  
