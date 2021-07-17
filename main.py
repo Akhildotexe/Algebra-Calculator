@@ -9,5 +9,12 @@ if op =="+" :
 
 if op == "-":
     print(f'x-{(num1)} = {(num2)}  x = {(num2 + num1)}')
+    
+if op == "*" : 
+    print(f'x*{(num1)} = {(num2)}  x = {(num2 / num1)}') 
+
+if op == "/" : 
+    print(f'x/{(num1)} = {(num2)}  x = {(num2 * num1)}')    
+
 else 
     print("pls redo your equation.")
