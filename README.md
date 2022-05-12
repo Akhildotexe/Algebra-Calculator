@@ -2,7 +2,7 @@
 
 This is a algebra calculator which runs in your terminal or cmd or python shell
 
-                           Made By akhil.daSimpツ#0705 Feel Free To DM me On Discord
+                           Made By akhil?#9292 Feel Free To DM me On Discord
  
 
 ### Table of contents
@@ -27,5 +27,5 @@ Anotha One.
 
 
 # Credits
-**Made By `akhil.daSimpツ#0705` Feel Free To DM me On Discord**
+**Made By `akhil?#9292` Feel Free To DM me On Discord**
  
