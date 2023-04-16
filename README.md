@@ -21,7 +21,7 @@ Just Follow Exactly What It Says Heres A Example.
 ![kk](https://user-images.githubusercontent.com/60161763/126041302-9a412c70-75e8-4fab-9776-0ac1e937dd58.png)
 
 
-Anotha One.
+Another One.
 
 ![jd](https://user-images.githubusercontent.com/60161763/126041402-8ea32b61-5eba-4d83-b05c-6bff0806967c.png)
 
